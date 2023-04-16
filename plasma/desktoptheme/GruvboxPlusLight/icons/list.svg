@@ -1,0 +1,18 @@
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-253,-17)">
+  <rect x="285" y="-5" width="22" height="22" opacity=".001"/>
+  <path d="m294 4h-6v4h16v-4h-6z" fill="#282828"/>
+ </g>
+ <g transform="translate(-285 -16.997)">
+  <path d="m285-5.0033h22v22h-22z" opacity=".001"/>
+  <path transform="translate(285 -5.0033)" d="m9 3v6h-6v4h6v6h4v-6h6v-4h-6v-6z" fill="#282828"/>
+ </g>
+ <g transform="translate(3.6591e-6)">
+  <path d="m-4.3181e-6 -4.8197e-7h32v32h-32z" opacity=".001"/>
+  <path d="m13 4v9h-9v6h9v9h6v-9h9v-6h-9v-9z" fill="#282828"/>
+ </g>
+ <g transform="translate(32)">
+  <rect width="32" height="32" opacity=".001"/>
+ </g>
+ <path d="m45 13h-9v6h24v-6h-9z" fill="#282828"/>
+</svg>
