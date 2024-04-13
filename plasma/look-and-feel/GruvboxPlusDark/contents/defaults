@@ -2,13 +2,13 @@
 widgetStyle=breeze
 
 [kdeglobals][General]
-ColorScheme=GruvboxPlus
+ColorScheme=GruvboxPlusDark
 
 [kdeglobals][Icons]
-Theme=GruvboxPlus
+Theme=Gruvbox-Plus-Dark
 
 [plasmarc][Theme]
-name=GruvboxPlus
+name=GruvboxPlusDark
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors
@@ -17,8 +17,8 @@ cursorTheme=breeze_cursors
 LayoutName=thumbnail_grid
 
 [kwinrc][DesktopSwitcher]
-LayoutName=
+LayoutName=thumbnail_grid
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__GruvboxPlus
+theme=__aurorae__svg__GruvboxPlusDark
