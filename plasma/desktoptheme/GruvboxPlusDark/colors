@@ -123,3 +123,5 @@ activeForeground=235,219,178
 inactiveBackground=40,40,40
 inactiveBlend=60,56,54
 inactiveForeground=213,196,161
+frame=40,40,40
+inactiveFrame=124,111,100
