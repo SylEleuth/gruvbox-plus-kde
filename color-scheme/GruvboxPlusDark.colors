@@ -8,7 +8,7 @@ IntensityAmount=0.1
 IntensityEffect=2
 
 [ColorEffects:Inactive]
-ChangeSelectionColor=true
+ChangeSelectionColor=false
 Color=124,111,100
 ColorAmount=0.025
 ColorEffect=2
@@ -27,9 +27,9 @@ ForegroundActive=235,219,178
 ForegroundInactive=168,153,132
 ForegroundLink=69,133,136
 ForegroundNegative=251,73,52
-ForegroundNeutral=235,219,178
+ForegroundNeutral=254,128,25
 ForegroundNormal=235,219,178
-ForegroundPositive=184,187,38
+ForegroundPositive=104,157,106
 ForegroundVisited=189,174,147
 
 [Colors:Complementary]
@@ -41,7 +41,7 @@ ForegroundActive=131,165,152
 ForegroundInactive=168,153,132
 ForegroundLink=69,133,136
 ForegroundNormal=235,219,178
-ForegroundPositive=69,133,136
+ForegroundPositive=104,157,106
 ForegroundVisited=124,111,100
 
 [Colors:Header]
@@ -50,21 +50,21 @@ DecorationFocus=214,93,14
 DecorationHover=254,128,25
 ForegroundInactive=168,153,132
 ForegroundNegative=204,36,29
-ForegroundPositive=66,123,88
+ForegroundPositive=104,157,106
 ForegroundVisited=69,133,136
 
 [Colors:Selection]
 BackgroundAlternate=214,93,14
-BackgroundNormal=254,128,25
+BackgroundNormal=131,165,152
 DecorationFocus=214,93,14
 DecorationHover=254,128,25
 ForegroundActive=235,219,178
 ForegroundInactive=213,196,161
 ForegroundLink=69,133,136
 ForegroundNegative=251,73,52
-ForegroundNeutral=235,219,178
+ForegroundNeutral=254,128,25
 ForegroundNormal=235,219,178
-ForegroundPositive=184,187,38
+ForegroundPositive=104,157,106
 ForegroundVisited=189,174,147
 
 [Colors:Tooltip]
@@ -76,9 +76,9 @@ ForegroundActive=235,219,178
 ForegroundInactive=168,153,132
 ForegroundLink=69,133,136
 ForegroundNegative=251,73,52
-ForegroundNeutral=235,219,178
+ForegroundNeutral=254,128,25
 ForegroundNormal=235,219,178
-ForegroundPositive=184,187,38
+ForegroundPositive=104,157,106
 ForegroundVisited=189,174,147
 
 [Colors:View]
@@ -90,9 +90,9 @@ ForegroundActive=235,219,178
 ForegroundInactive=168,153,132
 ForegroundLink=69,133,136
 ForegroundNegative=251,73,52
-ForegroundNeutral=235,219,178
+ForegroundNeutral=254,128,25
 ForegroundNormal=235,219,178
-ForegroundPositive=184,187,38
+ForegroundPositive=104,157,106
 ForegroundVisited=189,174,147
 
 [Colors:Window]
@@ -104,15 +104,16 @@ ForegroundActive=235,219,178
 ForegroundInactive=168,153,132
 ForegroundLink=69,133,136
 ForegroundNegative=251,73,52
-ForegroundNeutral=235,219,178
+ForegroundNeutral=254,128,25
 ForegroundNormal=235,219,178
-ForegroundPositive=184,187,38
+ForegroundPositive=104,157,106
 ForegroundVisited=189,174,147
 
 [General]
 ColorScheme=Gruvbox
 Name=GruvboxPlus Dark
-shadeSortColumn=true
+TitlebarIsAccentColored=false
+shadeSortColumn=false
 
 [KDE]
 contrast=4
