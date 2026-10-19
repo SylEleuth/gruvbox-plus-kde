@@ -69,7 +69,7 @@ ForegroundVisited=131,165,152
 
 [Colors:Tooltip]
 BackgroundAlternate=235,219,178
-BackgroundNormal=251,241,193
+BackgroundNormal=235,219,178
 DecorationFocus=214,93,14
 DecorationHover=254,128,25
 ForegroundActive=40,40,40
@@ -83,7 +83,7 @@ ForegroundVisited=131,165,152
 
 [Colors:View]
 BackgroundAlternate=213,196,161
-BackgroundNormal=235,219,178
+BackgroundNormal=213,196,161
 DecorationFocus=214,93,14
 DecorationHover=254,128,25
 ForegroundActive=40,40,40
@@ -97,7 +97,7 @@ ForegroundVisited=131,165,152
 
 [Colors:Window]
 BackgroundAlternate=213,196,161
-BackgroundNormal=235,219,178
+BackgroundNormal=224,207,169
 DecorationFocus=214,93,14
 DecorationHover=254,128,25
 ForegroundActive=40,40,40
@@ -115,7 +115,9 @@ Name=GruvboxPlus Light
 shadeSortColumn=true
 
 [KDE]
+Contrast=2
 contrast=4
+frameContrast=0.2
 
 [WM]
 activeBackground=235,219,178
