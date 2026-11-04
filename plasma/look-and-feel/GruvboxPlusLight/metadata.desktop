@@ -1,0 +1,17 @@
+[Desktop Entry]
+Comment=GruvboxPlus light theme
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=GruvboxPlus Light
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=SylEleuth
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=GruvboxPlusLight
+X-KDE-PluginInfo-Version=2.0
+X-KDE-PluginInfo-Website=https://github.com/SylEleuth/gruvbox-plus-kde
+X-Plasma-MainScript=defaults
