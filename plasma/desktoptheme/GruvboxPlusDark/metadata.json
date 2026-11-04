@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Eleuth"
+            }
+        ],
+        "Category": "",
+        "Description": "Gruvbox Plus Dark Theme",
+        "EnabledByDefault": true,
+        "Id": "GruvboxPlusDark",
+        "License": "GPLv3",
+        "Name": "Gruvbox Plus Dark",
+        "Version": "1.2",
+        "Website": "https://github.com/SylEleuth/gruvbox-plus-icon-pack"
+    },
+    "X-Plasma-API": "5.0"
+}
